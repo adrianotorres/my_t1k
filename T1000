@@ -7,7 +7,7 @@ T1k.setup do |config|
     config.repository.setup do |c|
       c.user = "adrianotorres"
       c.repo = "my_t1k"
-      c.oauth_token = "21d0422561128dbad25c6828c6af534f7b0a437f"
+      c.oauth_token = "e8152b7db2712677801c3e50a90eadca1474c024"
     end
 
   # Setup Trello board credentials
